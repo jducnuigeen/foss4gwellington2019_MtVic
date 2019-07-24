@@ -1,6 +1,14 @@
 
 #map {
-    background-color: #ffffff
+    background-color: #ffffff;
+    height: 100%;
+    width:100vw;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+
+
 }
 th {
     text-align: left;
